@@ -1,9 +1,9 @@
 <div>
   <p>
   <span align="left">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=NALocal&show_icons=true&theme=radical" title="AAAA's GitHub Stats">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=NALocal&show_icons=true&theme=radical" title="Nalocal's GitHub Stats">
   </span>
-  <img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NALocal&langs_count=8" title="AAAA's Most Used Languages">
+  <img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NALocal&langs_count=8" title="Nalocal's Most Used Languages">
   </p>
   <div>
     <h4>
