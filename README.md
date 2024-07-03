@@ -9,8 +9,8 @@
     <h4>
       <li>🍞 Hi, I’m <code>@Smilin</code></li>
       <li>🌱 I’m currently learning <code>Node.js</code>, <code>JavaScript</code>, <code>React</code>, <code>JAVA</code>
-      <li>👯 I’m looking to collaborate on <code>null</code></li>
-      <li>🤔 I’m looking for help with <code>null</code></li>
+      <li>👯 I’m looking to collaborate on <code>LoM-Wiki</code></li>
+      <li>🤔 I’m looking for help with <code>LoM-Wiki</code></li>
       <li>💬 Ask me about <code>anything</code> ✨</li>
     </h4>
   </div>
